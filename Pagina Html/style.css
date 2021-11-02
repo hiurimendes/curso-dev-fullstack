@@ -1,0 +1,46 @@
+body {
+    background: #ececec;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: 30px;
+    margin:0;
+}
+
+.container {
+    width: 750px;
+    margin: 0 auto;
+}
+
+.profile {
+    text-align: center;    
+    margin-top: 20px;
+}
+
+.foto {
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid white;  
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-top:0px;
+    font-weight:100;
+}
+
+.footer{
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 50px;
+    font-weight:100;    
+    font-style:italic;
+}
+
+.Next-Text {
+    margin-top:40px;
+}
